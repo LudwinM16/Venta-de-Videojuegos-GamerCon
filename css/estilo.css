@@ -1,0 +1,17 @@
+#cargando {
+    display: none;
+}
+a.ni{
+    color: black;
+    background-color: #7f93eb;
+    transition-duration: 0.4s;
+    border-radius: 20px;
+    margin-left: 10px;
+    padding: 20px;
+    font-size: 20px;
+  }
+  
+  .ni:hover {
+    background-color: #dcdde4; /* Green */
+    color: rgb(0, 0, 0);
+  }
